@@ -1,6 +1,6 @@
 # SoftUni-Software-Engineering-Spring-Data
 SoftUni | Courses | Solutions
-This repository includes the problems solved during the Java Advanced course. I have already completed these courses:
+This repository includes the problems solved during the Spring Data course. I have already completed these courses:
 
 -Programming Basics with Java - June 2020 (Grade: 6.00)
 
