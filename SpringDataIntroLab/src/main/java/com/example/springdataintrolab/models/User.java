@@ -1,4 +1,4 @@
-package com.example.springdataintrolab;
+package com.example.springdataintrolab.models;
 
 import javax.persistence.*;
 import java.util.ArrayList;
