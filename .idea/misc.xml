@@ -5,6 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/SpringDataIntroLab/pom.xml" />
+        <option value="$PROJECT_DIR$/DBAccessLab/pom.xml" />
+        <option value="$PROJECT_DIR$/DBAccessExercise/pom.xml" />
+        <option value="$PROJECT_DIR$/miniOrm/pom.xml" />
       </list>
     </option>
   </component>

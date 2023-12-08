@@ -1,8 +1,10 @@
 package entities;
 
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
+import annotations.Column;
+import annotations.Entity;
+import annotations.Id;
+
 import java.time.LocalDate;
 
 @Entity(name = "users")
