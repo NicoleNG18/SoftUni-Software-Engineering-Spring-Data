@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/DBAccessLab/pom.xml" />
         <option value="$PROJECT_DIR$/DBAccessExercise/pom.xml" />
         <option value="$PROJECT_DIR$/miniOrm/pom.xml" />
+        <option value="$PROJECT_DIR$/customOrm/pom.xml" />
       </list>
     </option>
   </component>

@@ -10,6 +10,7 @@
         <module name="SpringDataIntroLab" />
         <module name="DBAccessExercise" />
         <module name="DBAccessLab" />
+        <module name="customOrm" />
       </profile>
     </annotationProcessing>
   </component>
