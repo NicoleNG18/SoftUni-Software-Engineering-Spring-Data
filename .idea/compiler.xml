@@ -9,6 +9,7 @@
         <module name="miniOrm" />
         <module name="SpringDataIntroLab" />
         <module name="DBAccessExercise" />
+        <module name="IntroductionToHibernateLab" />
         <module name="DBAccessLab" />
         <module name="customOrm" />
       </profile>
